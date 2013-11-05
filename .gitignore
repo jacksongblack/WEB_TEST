@@ -9,4 +9,5 @@ test/dummy/.sass-cache
 features/*.feature
 features/web-controller/*.feature
 features/web-platform/*.feature
+app/
 

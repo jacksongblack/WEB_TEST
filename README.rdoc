@@ -1,4 +1,14 @@
 
 == 这个项目主要是在运用cucumber测试中一些常用的模板，主要实现了的功能有
 1.匹配并检测是否具有某些条件的值
-2.针对
+2.针对匹配页面上元素的值提供
+  2.1 全部不应该有
+  2.2 全部应该有
+  2.3 只能有一个
+3.登录模块
+ 给一个.yml配置文件,调用UserLogin类
+ yml格式如下:
+/*.yml
+ username:
+     classname: username
+     classname: password
