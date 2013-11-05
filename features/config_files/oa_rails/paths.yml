@@ -1,0 +1,11 @@
+<% oa_web_root = 'http://192.168.0.202/'%>
+控制器OA用户登录界面: "<%= oa_web_root%>login"
+全部资源页面: <%= oa_web_root%>metadata
+断线报警页面: <%= oa_web_root%>disconnection_alarms
+系统信息页面: <%= oa_web_root%>msg
+控制器保障页面: <%= oa_web_root%>guarantee_services
+
+<% admin_web_root = 'http://192.168.0.202:81/'%>
+admin用户登录界面: <%= admin_web_root%>login
+新建用户页面: <%= admin_web_root%>users/new
+用户列表界面: <%=admin_web_root%>

@@ -1,0 +1,2 @@
+控制器在线状态: "//div[@id = 'disconnection_alarms']"
+用户名列表: "//table/tbody/tr/td[@id='user_name']"

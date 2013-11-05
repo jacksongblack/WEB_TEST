@@ -1,0 +1,7 @@
+超级管理员:
+ username: "admin"
+ password: "123456"
+
+操作员:
+ username: "test"
+ password: "111111"

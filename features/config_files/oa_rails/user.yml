@@ -1,0 +1,6 @@
+管理员:
+  username: "admin"
+  password: "123456"
+操作员:
+  username: "coco"
+  password: "111111"

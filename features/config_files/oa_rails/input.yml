@@ -1,0 +1,12 @@
+用户名输入框: username
+密码输入框: password
+姓名: user_name
+密码: user_password
+确认密码: user_password_confirmation
+联系电话: user_phone
+电子邮箱: user_email
+关联服务器: office_automation_system_id
+登录密码: password
+保障页面的简单搜索框: guarantee_title
+保证页面高级搜索中的输入主题: "advancedtitle"
+保障页面高级搜索中的输入发件单位: typeSecondary

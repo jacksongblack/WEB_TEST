@@ -1,0 +1,7 @@
+<% root = "http://192.168.0.100:3000/" %>
+平台登录界面: <%= root%>login
+用户管理界面: <%= root%>admin_users
+资源列表页面: <%= root%>metadata
+平台首页: <%= root%>home/index
+新建用户页面: <%= root%>admin_users/new
+平台保障页面: <%= root%>discussion/index
